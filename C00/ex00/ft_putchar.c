@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/20 18:02:12 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 19:49:18 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:25:51 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,9 +16,3 @@ void	ft_putchar(char c)
 {
 	write(1, &c, 1);
 }
-
-// int	main(void)
-// {
-// 	ft_putchar('c');
-// 	return (0);
-// }

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_numbers.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/21 12:59:15 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 19:53:05 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:26:13 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,8 +25,3 @@ void	ft_print_numbers(void)
 		number_f++;
 	}
 }
-// int	main(void)
-// {
-// 	ft_print_numbers();
-// 	return (0);
-// }

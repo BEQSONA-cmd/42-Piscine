@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_reverse_alphabet.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/21 16:02:05 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 19:50:15 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:26:08 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,8 +25,3 @@ void	ft_print_reverse_alphabet(void)
 		last--;
 	}
 }
-// int	main(void)
-// {
-// 	ft_print_reverse_alphabet();
-// 	return (0);
-// }

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/24 18:25:29 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 20:01:06 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:26:51 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,9 +30,3 @@ void	putnbr(int nb)
 	}
 	putchar((nb % 10) + '0');
 }
-
-// int	main(void)
-// {
-// 	putnbr(42);
-// 	return (0);
-// }

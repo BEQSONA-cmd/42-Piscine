@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_comb2.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/24 13:41:10 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 19:56:14 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:26:42 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -77,9 +77,3 @@ void	ft_print_comb2(void)
 		a++;
 	}
 }
-
-// int	main(void)
-// {
-// 	ft_print_comb2();
-// 	return (0);
-// }

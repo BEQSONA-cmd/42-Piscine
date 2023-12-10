@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_negative.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/21 14:07:57 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 19:54:04 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:26:19 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,9 +23,3 @@ void	ft_is_negative(int n)
 		write(1, "P", 1);
 	}
 }
-
-// int	main(void)
-// {
-// 	ft_is_negative(-5);
-// 	return (0);
-// }

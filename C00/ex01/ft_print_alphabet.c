@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_alphabet.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: btvildia <btvildia@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: btvildia <btvildia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/21 11:43:06 by btvildia          #+#    #+#             */
-/*   Updated: 2023/09/24 19:59:37 by btvildia         ###   ########.fr       */
+/*   Updated: 2023/11/13 12:25:57 by btvildia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,9 +23,3 @@ void	ft_print_alphabet(void)
 		letter_f++;
 	}
 }
-
-// int	main(void)
-// {
-// 	ft_print_alphabet();
-// 	return (0);
-// }
